@@ -10,7 +10,7 @@ nombre:"",
 imagen:"",
 apellido:"",
 edad:0,
-url:'http://daniesc.pythonanywhere.com/productos/'+id,
+url:'https://aesthetic-rabanadas-a0044c.netlify.app'+id,
 }
 },
 methods: {
