@@ -10,7 +10,7 @@ nombre:"",
 imagen:"",
 apellido:"",
 edad:0,
-url:'https://aesthetic-rabanadas-a0044c.netlify.app'+id,
+url:'https://daniescobarbackend.netlify.app/'+id,
 }
 },
 methods: {
