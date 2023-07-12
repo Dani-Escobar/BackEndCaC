@@ -10,7 +10,7 @@ nombre:"",
 imagen:"",
 apellido:"",
 edad:0,
-url:'https://daniescobarbackend.netlify.app/'+id,
+url:'http://daniesc.pythonanywhere.com/productos/'+id,
 }
 },
 methods: {
