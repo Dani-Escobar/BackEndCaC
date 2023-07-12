@@ -58,7 +58,7 @@ redirect: 'follow'
 fetch(this.url, options)
 .then(function () {
 alert("Registro grabado")
-window.location.href = "/home/dani/Downloads/TFI/nuevo/templates/productos.html";
+window.location.href = "index.html";
 })
 .catch(err => {
 console.error(err);
