@@ -10,7 +10,7 @@ nombre:"",
 imagen:"",
 apellido:"",
 edad:0,
-url:'http://daniesc.pythonanywhere.com/productos/'+id,
+url:'https://dani-escobar.github.io/BackEndCaC/'+id,
 }
 },
 methods: {
