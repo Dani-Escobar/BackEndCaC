@@ -10,7 +10,7 @@ nombre:"",
 imagen:"",
 apellido:"",
 edad:0,
-url:'https://dani-escobar.github.io/BackEndCaC/'+id,
+url:'https://daniescobarbackend.netlify.app/'+id,
 }
 },
 methods: {
